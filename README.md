@@ -22,8 +22,7 @@ All the libraries used on the project are located on the libs folder.
 
 In the folder **db** is an database example with some samples collected during the research. 
 
-
 The others sub projects:
-	* ILP Models Generator
-	* ILP Network Models
-	* Intelligent Lock Pattern
+*	[ILP Models Generator](https://github.com/lucasandre/ilp-models-generator)
+*	[ILP Network Models](https://github.com/lucasandre/ilp-network-models)
+*	[Intelligent Lock Pattern](https://github.com/lucasandre/intelligent-lock-pattern)
